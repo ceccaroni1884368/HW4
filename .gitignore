@@ -134,3 +134,4 @@ wine/
 # other
 group_info.txt
 .ipynb_checkpoints
+wine.data
